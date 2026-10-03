@@ -1,0 +1,14 @@
+[
+  {
+    "amount": 5066.0,
+    "category": "food",
+    "date": "2003-4-09",
+    "note": "I am Zisan"
+  },
+  {
+    "amount": 300.0,
+    "category": "transport",
+    "date": "2004-9-09",
+    "note": "I am not Zisan"
+  }
+]
